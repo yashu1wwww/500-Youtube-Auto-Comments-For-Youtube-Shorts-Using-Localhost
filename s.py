@@ -18,7 +18,7 @@ driver = webdriver.Chrome(options=option)
 
 time.sleep(2)
 
-driver.get("https://www.youtube.com/watch?v=Qah9sSIXJqk&ab_channel=HombaleFilms") #replace with your url
+driver.get("https://youtube.com/shorts/USc22MHu9cU?feature=share") #replace with your url
 
 time.sleep(6)
 
