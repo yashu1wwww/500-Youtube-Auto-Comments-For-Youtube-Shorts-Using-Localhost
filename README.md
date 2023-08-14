@@ -1,6 +1,5 @@
 # 500-Youtube-Auto-Comments-For-Youtube-Shorts-Using-Localhost
-500+ Youtube Auto Comments For Youtube Shorts Using Localhost ports using selenium with python
-500+ Youtube Auto Comments Using Localhost ports using selenium with python
+500+ Youtube Auto Comments For Youtube Shorts using selenium with python on localhost
 
 "𝙏𝙝𝙚𝙨𝙚 𝙨𝙘𝙧𝙞𝙥𝙩𝙨 𝙮𝙤𝙪 𝙙𝙞𝙙𝙣'𝙩 𝙛𝙞𝙣𝙙 𝙞𝙣 𝙖𝙣𝙮 𝘼𝙄"
 
