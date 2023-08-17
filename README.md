@@ -45,11 +45,11 @@ cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
 chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
 
-To do 500+ auto comments, you must log in with 10+ accounts.
+## To do 500+ auto comments, you must log in with 10+ accounts.
 
 In lines 11 and 12 of the code, change the comments if you want to use something different.
 
-In line 21, change the movie video URL to the required URL.
+In line 21, change the youtube shorts to the required URL.
 
 That's it! The URL will open in the previously opened localhost Chrome and 500+ auto comments will be done automatically.
 
