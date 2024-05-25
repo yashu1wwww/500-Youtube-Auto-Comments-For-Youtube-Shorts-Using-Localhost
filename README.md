@@ -1,6 +1,8 @@
 # 500-Youtube-Auto-Comments-For-Youtube-Shorts-Using-Localhost
 500+ Youtube Auto Comments For Youtube Shorts using selenium with python on localhost
 
+# Note: Code updated in fewer lines
+
 # For Videos:
 
 https://github.com/yashu1wwww/500-Auto-Youtube-Comments-Using-Localhost
