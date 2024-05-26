@@ -58,8 +58,13 @@ in line 23 - no of accounts select to do auto comments
 
 That's it! The URL will open in the previously opened localhost Chrome and 500+ auto comments will be done automatically.
 
-
 -------------------------------------------------------------------------------------------------------------------------
+
+👉 Note:Every time YouTube updates the code, it varies. So, open the YouTube video, press 'Ctrl+Shift+C' to open the developer tools
+
+then copy the 'subcribe' button's XPath, CSS, or JavaScript path. Replace it in the code and press 'Ctrl+H' to find and replace the same element in the code.
+
+------------------------------------------------------------------------------------------------------------------
 
 # 👉Note:-
 
