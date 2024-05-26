@@ -41,7 +41,7 @@ chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bot
 
 pip install selenium==4.2.0
 
-after enter l.py or double click on l.py
+after enter s.py or double click on s.py
 
 ## To do 500+ auto comments, you must log in with 10+ accounts.
 
