@@ -61,7 +61,7 @@ That's it! The URL will open in the previously opened localhost Chrome and 500+ 
 
 -------------------------------------------------------------------------------------------------------------------------
 
-👉Note:-
+# 👉Note:-
 
 👉if your selenium version is in latest version then the code never run
 
