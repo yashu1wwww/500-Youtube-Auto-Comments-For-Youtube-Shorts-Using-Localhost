@@ -31,25 +31,21 @@ C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
 in my case chrome location(use start in:) is
 
-cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
+click window button and search cmd and enter 
 
-next,
+cd C:\Users\Hp\AppData\Local\Google\Chrome\Application (1st line in cmd)
 
-chrome.exe --remote-debugging-port=9222 --user-data-dir=""(in "enter your localhost path here")
+in line enter 
+
+chrome.exe --remote-debugging-port=9222 --user-data-dir=""(in "enter your localhost path here") 
 
 Next, enter this command into the terminal, replacing "enter your localhost path here" with your localhost path:
 
 For example, in my case it is:
 
-chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
+chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost" (2nd line in cmd make sure you replace the localhost path)
 
-then new terminal in that folder and enter s.py
-
-Then, open the command prompt in that folder and paste the following two lines one at a time and press enter. (The code below assumes that you have watched the video and have set up the correct Chrome and localhost path.)
-
-cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
-
-chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
+# then again open new terminal in that folder enter h.py or double click on h.py
 
 ## To do 500+ auto comments, you must log in with 10+ accounts.
 
